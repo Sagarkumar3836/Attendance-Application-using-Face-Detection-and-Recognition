@@ -1,0 +1,1 @@
+My project is attendance web application using face detection and recognition by matching the encodings of the detected faces present in the input image to encodings of the known images present in a pickle file
